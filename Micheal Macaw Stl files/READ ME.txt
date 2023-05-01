@@ -1,0 +1,18 @@
+Images show complex assemby for head and neck
+
+Servos used are as follows:
+
+Main Body servos : Gs-9025MG (or equivalent)
+
+link: https://www.digikey.com/en/products/detail/dfrobot/SER0011/7087129?utm_adgroup=Essen%20Deinki&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_DK%2BSupplier_Other&utm_term=&utm_content=Essen%20Deinki&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzp3-frFMKfLUrgksFnIyR06RGGLiP9MPCPfm7lLVsA--0WXAWNQlHBoCH0cQAvD_BwE
+
+Mouth Servo: EFLRDS76 (or equivalent)
+
+
+Link: https://www.amazon.com/flite-7-6-Gram-Digital-Sub-Micro-Servo/dp/B004O7D6TW/ref=asc_df_B004O7D6TW/?tag=hyprod-20&linkCode=df0&hvadid=312111912863&hvpos=&hvnetw=g&hvrand=16458540992727415735&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032457&hvtargid=pla-571251569515&psc=1
+
+M4 screws and inserts are needed
+
+message me for further inquiries
+
+
